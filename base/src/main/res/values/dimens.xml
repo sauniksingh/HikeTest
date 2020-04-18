@@ -1,0 +1,16 @@
+<resources>
+    <!-- Dialog Custom Alert-->
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <!-- End Dialog Custom Alert-->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="text_apperance_large">20sp</dimen>
+    <dimen name="text_apperance_medium">16sp</dimen>
+</resources>
